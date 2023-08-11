@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrbase1
 - 👀 I’m interested in JS, Node, PHP, MySQL
-- 🌱 I’m currently learning Node, MongoDB
+- 🌱 I’m currently working with Node, MongoDB, React, React Native
 - 💞️ I’m looking to collaborate on web and mobile development projects
 - 📫 How to reach me - boruye@gmail.com, +2348033380055
 
